@@ -1,2 +1,1 @@
-# microFontendDemo
-micro Fontend Demo
+micro-fortends
